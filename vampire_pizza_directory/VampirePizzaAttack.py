@@ -1,11 +1,10 @@
 #setup game
-# i made some changes here
+
 #import libraries
 import pygame
 from pygame import*
 from random import randint
 #initialize pygame
-
 pygame.init()
 
 #-------------------------------------------------------
